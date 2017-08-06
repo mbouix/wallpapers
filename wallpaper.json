@@ -1,87 +1,505 @@
 { 
 	"wallpapers": 
-		[
-			{
-				"name": "ShotA",
-				"author": "Someone",
-				"url": "http://i.imgur.com/Z4phOcQ.png"
-			},
-			{
-				"name": "ShotB",
-				"author": "Someone",
-				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-				"dimensions": "3200x2560"
-			},
-			{
-				"author": "Someone",
-				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-				"name": "ShotC",
-				"dimensions": "1280x720",
-				"copyright": "Credits to its creator"
-			},
-			{
-			    "name": "Wallsplash 1",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			},
-			{
-			    "name": "Wallsplash 2",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			},
-			{
-			    "name": "Wallsplash 3",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			},
-			{
-			    "name": "Wallsplash 4",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			},
-			{
-			    "name": "Wallsplash 5",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			},
-			{
-			    "name": "Wallsplash 6",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			},
-			{
-			    "name": "Wallsplash 7",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			},
-			{
-			    "name": "Wallsplash 8",
-			    "author": "wallsplash",
-			    "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-			    "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-			    "dimensions": "3200x2560",
-			    "copyright": "Free (do whatever you want)"
-			}
-		]
+	[
+		{
+			"name": "1",
+			"author": "1",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/1.jpg"
+		},
+		{
+			"name": "2",
+			"author": "2",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/2.jpg"
+		},
+		{
+			"name": "3",
+			"author": "3",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/3.jpg"
+		},
+		{
+			"name": "4",
+			"author": "4",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/4.jpg"
+		},
+		{
+			"name": "5",
+			"author": "5",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/5.jpg"
+		},
+		{
+			"name": "6",
+			"author": "6",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/6.jpg"
+		},
+		{
+			"name": "7",
+			"author": "7",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/7.jpg"
+		},
+		{
+			"name": "8",
+			"author": "8",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/8.jpg"
+		},
+		{
+			"name": "9",
+			"author": "9",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/9.jpg"
+		},
+		{
+			"name": "10",
+			"author": "10",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/10.jpg"
+		},
+		{
+			"name": "11",
+			"author": "11",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/11.jpg"
+		},
+		{
+			"name": "12",
+			"author": "12",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/12.jpg"
+		},
+		{
+			"name": "13",
+			"author": "13",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/13.jpg"
+		},
+		{
+			"name": "14",
+			"author": "14",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/14.jpg"
+		},
+		{
+			"name": "15",
+			"author": "15",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/15.jpg"
+		},
+		{
+			"name": "16",
+			"author": "16",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/16.jpg"
+		},
+		{
+			"name": "17",
+			"author": "17",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/17.jpg"
+		},
+		{
+			"name": "18",
+			"author": "18",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/18.jpg"
+		},
+		{
+			"name": "19",
+			"author": "19",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/19.jpg"
+		},
+		{
+			"name": "20",
+			"author": "20",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/20.jpg"
+		},
+		{
+			"name": "21",
+			"author": "21",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/21.jpg"
+		},
+		{
+			"name": "22",
+			"author": "22",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/22.jpg"
+		},
+		{
+			"name": "23",
+			"author": "23",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/23.jpg"
+		},
+		{
+			"name": "24",
+			"author": "24",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/24.jpg"
+		},
+		{
+			"name": "25",
+			"author": "25",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/25.jpg"
+		},
+		{
+			"name": "26",
+			"author": "26",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/26.jpg"
+		},
+		{
+			"name": "27",
+			"author": "27",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/27.jpg"
+		},
+		{
+			"name": "28",
+			"author": "28",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/28.jpg"
+		},
+		{
+			"name": "29",
+			"author": "29",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/29.jpg"
+		},
+		{
+			"name": "30",
+			"author": "30",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/30.jpg"
+		},
+		{
+			"name": "31",
+			"author": "31",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/31.jpg"
+		},
+		{
+			"name": "32",
+			"author": "32",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/32.jpg"
+		},
+		{
+			"name": "33",
+			"author": "33",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/33.jpg"
+		},
+		{
+			"name": "34",
+			"author": "34",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/34.jpg"
+		},
+		{
+			"name": "35",
+			"author": "35",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/35.jpg"
+		},
+		{
+			"name": "36",
+			"author": "36",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/36.jpg"
+		},
+		{
+			"name": "37",
+			"author": "37",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/37.jpg"
+		},
+		{
+			"name": "38",
+			"author": "38",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/38.jpg"
+		},
+		{
+			"name": "39",
+			"author": "39",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/39.jpg"
+		},
+		{
+			"name": "40",
+			"author": "40",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/40.jpg"
+		},
+		{
+			"name": "41",
+			"author": "41",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/41.jpg"
+		},
+		{
+			"name": "42",
+			"author": "42",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/42.jpg"
+		},
+		{
+			"name": "43",
+			"author": "43",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/43.jpg"
+		},
+		{
+			"name": "44",
+			"author": "44",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/44.jpg"
+		},
+		{
+			"name": "45",
+			"author": "45",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/45.jpg"
+		},
+		{
+			"name": "46",
+			"author": "46",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/46.jpg"
+		},
+		{
+			"name": "47",
+			"author": "47",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/47.jpg"
+		},
+		{
+			"name": "48",
+			"author": "48",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/48.jpg"
+		},
+		{
+			"name": "49",
+			"author": "49",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/49.jpg"
+		},
+		{
+			"name": "50",
+			"author": "50",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/50.jpg"
+		},
+		{
+			"name": "51",
+			"author": "51",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/51.jpg"
+		},
+		{
+			"name": "52",
+			"author": "52",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/52.jpg"
+		},
+		{
+			"name": "53",
+			"author": "53",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/53.jpg"
+		},
+		{
+			"name": "54",
+			"author": "54",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/54.jpg"
+		},
+		{
+			"name": "55",
+			"author": "55",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/55.jpg"
+		},
+		{
+			"name": "56",
+			"author": "56",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/56.jpg"
+		},
+		{
+			"name": "57",
+			"author": "57",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/57.jpg"
+		},
+		{
+			"name": "58",
+			"author": "58",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/58.jpg"
+		},
+		{
+			"name": "59",
+			"author": "59",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/59.jpg"
+		},
+		{
+			"name": "60",
+			"author": "60",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/60.jpg"
+		},
+		{
+			"name": "61",
+			"author": "61",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/61.jpg"
+		},
+		{
+			"name": "62",
+			"author": "62",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/62.jpg"
+		},
+		{
+			"name": "63",
+			"author": "63",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/63.jpg"
+		},
+		{
+			"name": "64",
+			"author": "64",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/64.jpg"
+		},
+		{
+			"name": "65",
+			"author": "65",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/65.jpg"
+		},
+		{
+			"name": "66",
+			"author": "66",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/66.jpg"
+		},
+		{
+			"name": "67",
+			"author": "67",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/67.jpg"
+		},
+		{
+			"name": "68",
+			"author": "68",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/68.jpg"
+		},
+		{
+			"name": "69",
+			"author": "69",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/69.jpg"
+		},
+		{
+			"name": "70",
+			"author": "70",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/70.jpg"
+		},
+		{
+			"name": "71",
+			"author": "71",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/71.jpg"
+		},
+		{
+			"name": "72",
+			"author": "72",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/72.jpg"
+		},
+		{
+			"name": "73",
+			"author": "73",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/73.jpg"
+		},
+		{
+			"name": "74",
+			"author": "74",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/74.jpg"
+		},
+		{
+			"name": "75",
+			"author": "75",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/75.jpg"
+		},
+		{
+			"name": "76",
+			"author": "76",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/76.jpg"
+		},
+		{
+			"name": "77",
+			"author": "77",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/77.jpg"
+		},
+		{
+			"name": "78",
+			"author": "78",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/78.jpg"
+		},
+		{
+			"name": "79",
+			"author": "79",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/79.jpg"
+		},
+		{
+			"name": "80",
+			"author": "80",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/80.jpg"
+		},
+		{
+			"name": "81",
+			"author": "81",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/81.jpg"
+		},
+		{
+			"name": "82",
+			"author": "82",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/82.jpg"
+		},
+		{
+			"name": "83",
+			"author": "83",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/83.jpg"
+		},
+		{
+			"name": "84",
+			"author": "84",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/84.jpg"
+		},
+		{
+			"name": "85",
+			"author": "85",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/85.jpg"
+		},
+		{
+			"name": "86",
+			"author": "86",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/86.jpg"
+		},
+		{
+			"name": "87",
+			"author": "87",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/87.jpg"
+		},
+		{
+			"name": "88",
+			"author": "88",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/88.jpg"
+		},
+		{
+			"name": "89",
+			"author": "89",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/89.jpg"
+		},
+		{
+			"name": "90",
+			"author": "90",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/90.jpg"
+		},
+		{
+			"name": "91",
+			"author": "91",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/91.jpg"
+		},
+		{
+			"name": "92",
+			"author": "92",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/92.jpg"
+		},
+		{
+			"name": "93",
+			"author": "93",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/93.jpg"
+		},
+		{
+			"name": "94",
+			"author": "94",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/94.jpg"
+		},
+		{
+			"name": "95",
+			"author": "95",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/95.jpg"
+		},
+		{
+			"name": "96",
+			"author": "96",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/96.jpg"
+		},
+		{
+			"name": "97",
+			"author": "97",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/97.jpg"
+		},
+		{
+			"name": "98",
+			"author": "98",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/98.jpg"
+		},
+		{
+			"name": "99",
+			"author": "99",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/99.jpg"
+		},
+		{
+			"name": "100",
+			"author": "100",
+			"url": "https://github.com/mbouix/wallpapers/raw/master/100.jpg"
+		}
+	]
 }
